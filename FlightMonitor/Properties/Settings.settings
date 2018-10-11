@@ -1,0 +1,19 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FlightMonitor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Pathexe" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\\Users\\Administrator\\Desktop\\vncviewer.exe</Value>
+    </Setting>
+    <Setting Name="Pic_indxe" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">images/主页.jpg</Value>
+    </Setting>
+    <Setting Name="Timer" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="constr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Data Source=(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST=192.168.34.18) (PORT=1521)))(CONNECT_DATA=(SERVICE_NAME=LZFIDS)));
+Persist Security Info=True;uid=fids;pwd=fidsaodb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
